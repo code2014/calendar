@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  day: MyString
+  from: MyString
+  to: MyString
+  city: MyString
+  state: MyString
+  zip: 1
+
+two:
+  day: MyString
+  from: MyString
+  to: MyString
+  city: MyString
+  state: MyString
+  zip: 1
